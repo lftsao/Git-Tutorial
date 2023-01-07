@@ -15,6 +15,7 @@ struct ContentView: View {
                 .foregroundColor(.accentColor)
             Text("Hello, Git!")
             Text("Test branch!")
+            Text("Test Push!!!")
         }
         .padding()
     }
